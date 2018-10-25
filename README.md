@@ -1,2 +1,4 @@
-# Recycle-Rush-Robot-Software-2016-
-Software I developed (using LabVIEW) for a robot I worked on in my Junior year of high school. This follows the project as seen on my LinkedIn: https://www.linkedin.com/in/jamespillot/
+# Buzz20-Master
+Eric Yahrmatter Contact Info:
+Email and Google Hangouts: eric.yahrmatter@gmail.com
+Cell: (248)872-3495
