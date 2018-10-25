@@ -1,0 +1,21 @@
+#TEST PROGRAM
+
+#Grab Can
+StealCan
+
+#Wait
+Wait 800
+
+#Drive Away
+DriveStraight2 75 100
+
+#Wait
+Wait 1000
+
+#Drive Back A Little
+DriveStraight2 -25 30
+
+#Retract Can Burgler
+Retract 1500
+
+end
